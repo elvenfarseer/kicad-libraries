@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74LVC1G125GW
+D Bus buffer/line driver; 3-state
+K buffer, 3-state
+F http://assets.nexperia.com/documents/data-sheet/74LVC1G125.pdf
+$ENDCMP
+#
+#End Doc Library
